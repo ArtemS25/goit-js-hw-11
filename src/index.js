@@ -1,5 +1,5 @@
 import { refs } from './js/refs';
-import { PixabayAPI } from './js/pixabayAPI';
+import { PixabayAPI } from './js/pixabayApi';
 import { creatMarkup } from './js/creatMarkup';
 import Notiflix from 'notiflix';
 import { observer } from './js/observer';
